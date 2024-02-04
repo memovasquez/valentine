@@ -4,7 +4,7 @@ const root = document.documentElement;
 const toggleButton = document.getElementById('toggleButton');
 const yesButton = document.getElementById("yesButton");
 const yayHidden = document.getElementsByClassName("yayHidden");
-const happyHappyHappy = new Audio("happyHappyHappy.m4a");
+const happyHappyHappy = new Audio("images/happyHappyHappy.m4a");
 
 // Function to toggle light and dark themes
 function toggleTheme() {
